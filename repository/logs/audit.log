@@ -1,0 +1,595 @@
+TID: [-1234] [2026-04-16 11:11:09,265]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,266]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,267]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,269]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,271]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,274]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,276]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,283]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,287]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,288]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,289]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,293]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,293]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,293]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,304]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,294]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,295]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,298]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,300]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,300]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:09,303]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:10,067]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:10,072]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:10,074]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:10,694]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:10,701]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:10,705]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:11,006]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:11,014]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:11,015]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:11,234]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:11,248]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:11,249]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,401]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,404]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,409]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,412]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,420]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,421]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,424]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,426]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,427]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,431]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,444]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,481]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,820]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,827]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,828]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,835]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,858]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,866]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,904]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,921]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,923]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,930]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,939]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:11,962]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:12,164]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-Roles-of-User Target=a***n Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Internal/devops","admin","Internal/analytics","Internal/observer","Internal/integration_dev"]} Outcome=Success
+TID: [] [2026-04-16 11:11:12,928]  WARN {AUDIT_LOG} - Initiator=w**************r Action=Add-User Target=a****************r Data={"Claims":{"http://wso2.org/claims/username":"a****************r","http://wso2.org/claims/userid":"9894ef5f-e360-4c10-9d8d-c9de0b1944ad"},"Roles":["internal/everyone"],"Profile":"apim_reserved_user"} Outcome=Success
+TID: [] [2026-04-16 11:11:12,968]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-Roles-of-User Target=a****************r Data={"Filter":"*","Roles":["Internal/everyone"]} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,188]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,189]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,192]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,198]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,199]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,199]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,200]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,202]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,205]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,206]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,206]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,225]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,439]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,455]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,484]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,505]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,508]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,509]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,511]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,516]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,526]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,527]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,539]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,544]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,578]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,596]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,598]  INFO {AUDIT_LOG} - {"performedBy":"SYSTEM: carbon.super","action":"deployed","type":"API"}
+TID: [-1234] [2026-04-16 11:11:13,606]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,656]  INFO {AUDIT_LOG} - {"performedBy":"SYSTEM: carbon.super","action":"deployed","type":"API"}
+TID: [] [2026-04-16 11:11:13,726]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,729]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,730]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,745]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,767]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,768]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,777]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,779]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,782]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,783]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,858]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,859]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,859]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,862]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,864]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,876]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,892]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,894]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,895]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,897]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,898]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,902]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,904]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:13,905]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,915]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,925]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,927]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,931]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,933]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,934]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,987]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,989]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:13,990]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,025]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,028]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,031]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,047]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,053]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,055]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,087]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,134]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,135]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,460]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,464]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,465]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,467]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,474]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,474]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,481]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,528]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,540]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,549]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,567]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,568]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,578]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,582]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,583]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,591]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,604]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,605]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,619]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,624]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:14,629]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,640]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,643]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,645]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,661]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,662]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,677]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,701]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,735]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:11:14,759]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:32,045]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:32,051]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:32,057]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:11:32,700]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : Add-Application | Target : 34d5a69e-14fa-4088-b9c3-60b709cb66f8 | Data : { Changed-State : { Name:apim_publisher, Description:Service Provider for application apim_publisher, Resource ID:34d5a69e-14fa-4088-b9c3-60b709cb66f8, Access URL:null, Is Discoverable:false, Is SaaS:true, , Service Provider Properties:[{useUserIdForDefaultSubject:true}, {isManagementApp:false}, {TokenType:DEFAULT}, {skipLogoutConsent:true}, {DisplayName:apim_publisher}, {skipConsent:true}, {jwksURI:}, {templateId:}, {orgId:carbon.super}] } } | Result : Success 
+TID: [-1234] [2026-04-16 11:11:33,159]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : Update-Application | Target : 34d5a69e-14fa-4088-b9c3-60b709cb66f8 | Data : { Changed-State : { Name:apim_publisher, Description:Service Provider for application apim_publisher, Resource ID:34d5a69e-14fa-4088-b9c3-60b709cb66f8, Access URL:null, Is Discoverable:false, Is SaaS:true, Inbound Authentication Configs:[{Auth Key:_**************************a, Auth Type:oauth2, Config Type:null, Inbound configuration:nullProperties:[{oauthConsumerSecret:r**************************a}]}], Local and Outbound Configuration:{Auth Type:default}, Claim Configuration:{User Claim URI:null, Role Claim URI:null}, Inbound Provisioning Configuration:{Provisioning Userstore:null, Is Dumb Mode:false}, Outbound Provisioning Configuration:{}, Service Provider Properties:[{isManagementApp:false}, {TokenType:DEFAULT}, {skipLogoutConsent:true}, {USE_DOMAIN_IN_ROLES:true}, {DisplayName:apim_publisher}, {skipConsent:true}, {jwksURI:}, {templateId:}, {orgId:carbon.super}] } } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:18,182]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-List Target=null Data={"ServiceProviderName":"apim_publisher","Claim Value":"a***n","Users":["a***n"],"Claim":"http://wso2.org/claims/username"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:18,189]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"ServiceProviderName":"apim_publisher","Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:18,190]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"ServiceProviderName":"apim_publisher","Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:18,191]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"ServiceProviderName":"apim_publisher","Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:18,197]  INFO {AUDIT_LOG} - Initiator : a***n | Action : LoginStepSuccess | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "e2261352-5313-434c-869f-be84e9ff4389","AuthenticatedUser" : "a***n","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "apim_publisher","RequestType" : "oidc","RelyingParty" : "_N628OCqcOo0EIJGkSbcVjffJ4Ma","AuthenticatedIdP" : "LOCAL","User Agent" : "null","RemoteAddress" : "null","UserStoreDomain" : "PRIMARY" } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:18,202]  INFO {AUDIT_LOG} - Initiator : a****************r | Action : Authenticate | Target : ApplicationAuthenticationFramework | Data : { Step: 1, IDP: LOCAL, Authenticator:BasicAuthenticator } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:18,212]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"ServiceProviderName":"apim_publisher","Claims":{"http://wso2.org/claims/username":"a***n","http://wso2.org/claims/userid":"f270c18c-7828-4268-bb47-13b133288e7e","http://wso2.org/claims/role":"I***********************************************************************************************************************************************************v","http://wso2.org/claims/userprincipal":"a***n"}} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:18,390]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : StoreSession | Data : { {"traceId":"211a10d4-2548-4a30-a292-78b29e50c0c7","RememberMe":true,"sessionContextId":"a0dad3d2df08316661c509605c24a92f57c3375754de553da276a537845aea0c","AuthenticatedUserTenantDomain":"carbon.super","AuthenticatedUser":"a***n","LastAccessedTimestamp":1776320598224} } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:18,432]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "e2261352-5313-434c-869f-be84e9ff4389","AuthenticatedUser" : "a***n","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "apim_publisher","RequestType" : "oidc","RelyingParty" : "_N628OCqcOo0EIJGkSbcVjffJ4Ma","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNzc2MzIwNjAxMjAyLCJpYXQiOjE3NzYzMjA1OTgyMDIsImlkcHMiOlt7ImlkcCI6IkxPQ0FMIiwiYXV0aGVudGljYXRvciI6IkJhc2ljQXV0aGVudGljYXRvciJ9XX0.ghaPaX8PSpBF3BrrZoXG9j3rel_GOMtvAsj5KpYkdc0","User Agent" : "null","RemoteAddress" : "null","UserStoreDomain" : "PRIMARY" } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:20,061]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-List Target=null Data={"Claim Value":"a***n","Users":["a***n"],"Claim":"http://wso2.org/claims/username"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:20,065]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:20,067]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:20,067]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:21,912]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Value Target=a***n Data={"Claim":"http://wso2.org/claims/organization"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:21,912]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Value Target=a***n Data={"Claim":"http://wso2.org/claims/organization"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:22,568]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:22,570]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:22,571]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:22,604]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : Add-Application | Target : 444db546-2e92-4899-b6ad-39265b36c138 | Data : { Changed-State : { Name:apim_devportal, Description:Service Provider for application apim_devportal, Resource ID:444db546-2e92-4899-b6ad-39265b36c138, Access URL:null, Is Discoverable:false, Is SaaS:true, , Service Provider Properties:[{useUserIdForDefaultSubject:true}, {isManagementApp:false}, {TokenType:DEFAULT}, {skipLogoutConsent:true}, {DisplayName:apim_devportal}, {skipConsent:true}, {jwksURI:}, {templateId:}, {orgId:carbon.super}] } } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:22,680]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : Update-Application | Target : 444db546-2e92-4899-b6ad-39265b36c138 | Data : { Changed-State : { Name:apim_devportal, Description:Service Provider for application apim_devportal, Resource ID:444db546-2e92-4899-b6ad-39265b36c138, Access URL:null, Is Discoverable:false, Is SaaS:true, Inbound Authentication Configs:[{Auth Key:4**************************a, Auth Type:oauth2, Config Type:null, Inbound configuration:nullProperties:[{oauthConsumerSecret:E**************************a}]}], Local and Outbound Configuration:{Auth Type:default}, Claim Configuration:{User Claim URI:null, Role Claim URI:null}, Inbound Provisioning Configuration:{Provisioning Userstore:null, Is Dumb Mode:false}, Outbound Provisioning Configuration:{}, Service Provider Properties:[{isManagementApp:false}, {TokenType:DEFAULT}, {skipLogoutConsent:true}, {USE_DOMAIN_IN_ROLES:true}, {DisplayName:apim_devportal}, {skipConsent:true}, {jwksURI:}, {templateId:}, {orgId:carbon.super}] } } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:22,917]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"ServiceProviderName":"apim_devportal","Claims":{"http://wso2.org/claims/username":"a***n","http://wso2.org/claims/userid":"f270c18c-7828-4268-bb47-13b133288e7e","http://wso2.org/claims/role":"I***********************************************************************************************************************************************************v","http://wso2.org/claims/userprincipal":"a***n"}} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:22,944]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : UpdateSession | Data : { {"traceId":"7a6e29f6-0fc3-47b0-a64f-bc59258ec73f","RememberMe":true,"sessionContextId":"a0dad3d2df08316661c509605c24a92f57c3375754de553da276a537845aea0c","AuthenticatedUserTenantDomain":"carbon.super","AuthenticatedUser":"a***n","LastAccessedTimestamp":1776320602924} } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:22,944]  INFO {AUDIT_LOG} - GET /api/am/publisher/settings user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:22,950]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "4b3bfdbf-a14a-4fea-82cd-18890a94fd6c","AuthenticatedUser" : "a***n","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "apim_devportal","RequestType" : "oidc","RelyingParty" : "4mql53WDQwfps4ky7qrJCa6PHRIa","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNzc2MzIwNjA1OTA3LCJpYXQiOjE3NzYzMjA2MDI5MDcsImlkcHMiOlt7ImlkcCI6IkxPQ0FMIiwiYXV0aGVudGljYXRvciI6IkJhc2ljQXV0aGVudGljYXRvciJ9XX0.V1M_tXWSLMMHy_MofG8gofAYYRYQY_GZhHyNDh4fgnk","User Agent" : "null","RemoteAddress" : "null","UserStoreDomain" : "PRIMARY" } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:23,446]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis?limit=10&offset=0 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:25,454]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:25,461]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"ServiceProviderName":"apim_publisher","Claims":{"http://wso2.org/claims/username":"a***n","http://wso2.org/claims/userid":"f270c18c-7828-4268-bb47-13b133288e7e","http://wso2.org/claims/role":"I***********************************************************************************************************************************************************v","http://wso2.org/claims/userprincipal":"a***n"}} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:25,481]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : UpdateSession | Data : { {"traceId":"e763fc9a-e157-41a9-8532-46e87d31628f","RememberMe":true,"sessionContextId":"a0dad3d2df08316661c509605c24a92f57c3375754de553da276a537845aea0c","AuthenticatedUserTenantDomain":"carbon.super","AuthenticatedUser":"a***n","LastAccessedTimestamp":1776320605473} } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:25,486]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "ed364c14-2807-4068-a220-cc8b47baf664","AuthenticatedUser" : "a***n","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "apim_publisher","RequestType" : "oidc","RelyingParty" : "_N628OCqcOo0EIJGkSbcVjffJ4Ma","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNzc2MzIwNjA4NDU0LCJpYXQiOjE3NzYzMjA2MDU0NTQsImlkcHMiOlt7ImlkcCI6IkxPQ0FMIiwiYXV0aGVudGljYXRvciI6IkJhc2ljQXV0aGVudGljYXRvciJ9XX0.NlH_WTP-uX-KSedF2MMy0nrqrH0D4fzFhuMbD6XDUI8","User Agent" : "null","RemoteAddress" : "null","UserStoreDomain" : "PRIMARY" } | Result : Success 
+TID: [-1234] [2026-04-16 11:23:26,164]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-List Target=null Data={"Claim Value":"a***n","Users":["a***n"],"Claim":"http://wso2.org/claims/username"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:26,185]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:26,191]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:26,193]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:26,291]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Value Target=a***n Data={"Claim":"http://wso2.org/claims/organization"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:26,839]  INFO {AUDIT_LOG} - GET /api/am/devportal/settings user: admin@carbon.super app: 4mql53WDQwfps4ky7qrJCa6PHRIa
+TID: [] [2026-04-16 11:23:26,981]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:23:26,988]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:23:26,996]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:27,237]  INFO {AUDIT_LOG} - GET /api/am/devportal/applications?sortBy=name&sortOrder=asc&limit=10&offset=0 user: admin@carbon.super app: 4mql53WDQwfps4ky7qrJCa6PHRIa
+TID: [-1234] [2026-04-16 11:23:27,297]  INFO {AUDIT_LOG} - GET /api/am/devportal/me/organization-information user: admin@carbon.super app: 4mql53WDQwfps4ky7qrJCa6PHRIa
+TID: [-1234] [2026-04-16 11:23:28,171]  INFO {AUDIT_LOG} - GET /api/am/publisher/settings user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:28,174]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis?limit=10&offset=0 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:37,705]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:37,960]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:38,262]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:38,389]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:49,025]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate?query=name%3Azboxtransaction&limit=10&offset=0 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:49,145]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/import-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:50,248]  INFO {AUDIT_LOG} - {"performedBy":"admin","action":"created","type":"API","info":{"provider":"admin","name":"ZBoxTransaction","context":"/zboxtransaction/v1","version":"v1"}}
+TID: [] [2026-04-16 11:23:50,301]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:23:50,303]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:23:50,305]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:23:52,234]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/96574b60-06ca-4b33-b033-eb546477a18a user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:52,240]  INFO {AUDIT_LOG} - GET /api/am/publisher/tenants?state=active user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:52,727]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/96574b60-06ca-4b33-b033-eb546477a18a/revisions user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:52,734]  INFO {AUDIT_LOG} - GET /api/am/publisher/me/organization-information user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:52,738]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/96574b60-06ca-4b33-b033-eb546477a18a/swagger user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:52,755]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/96574b60-06ca-4b33-b033-eb546477a18a/revisions?query=deployed%3Atrue user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:52,793]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/96574b60-06ca-4b33-b033-eb546477a18a/revisions?query=deployed%3Atrue user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:53,028]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/96574b60-06ca-4b33-b033-eb546477a18a/swagger user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:23:53,036]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/96574b60-06ca-4b33-b033-eb546477a18a/revisions?query=deployed%3Atrue user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:20,756]  INFO {AUDIT_LOG} - DELETE /api/am/publisher/apis/96574b60-06ca-4b33-b033-eb546477a18a user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:20,903]  INFO {AUDIT_LOG} - {"performedBy":"admin","action":"deleted","type":"API","info":{"provider":"admin","name":"ZBoxTransaction","version":"v1"}}
+TID: [] [2026-04-16 11:24:20,962]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:24:20,968]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:24:20,969]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:24:21,081]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis?limit=10&offset=0 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:30,018]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:30,137]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:30,241]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:30,382]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:32,078]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate?query=name%3Azboxtransaction&limit=10&offset=0 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:33,781]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate?query=name%3Azboxtransaction&limit=10&offset=0 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:33,839]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/import-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:34,246]  INFO {AUDIT_LOG} - {"performedBy":"admin","action":"created","type":"API","info":{"provider":"admin","name":"ZBoxTransaction","context":"/zboxtransaction/v1","version":"v1"}}
+TID: [] [2026-04-16 11:24:34,299]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:24:34,303]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 11:24:34,305]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 11:24:34,596]  INFO {AUDIT_LOG} - GET /api/am/publisher/tenants?state=active user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:34,602]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/8af64a71-1a38-4fcf-b6d3-7b6cd1c5c998 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:35,091]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/8af64a71-1a38-4fcf-b6d3-7b6cd1c5c998/swagger user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:35,096]  INFO {AUDIT_LOG} - GET /api/am/publisher/me/organization-information user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:35,100]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/8af64a71-1a38-4fcf-b6d3-7b6cd1c5c998/revisions user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:35,106]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/8af64a71-1a38-4fcf-b6d3-7b6cd1c5c998/revisions?query=deployed%3Atrue user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:35,116]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/8af64a71-1a38-4fcf-b6d3-7b6cd1c5c998/revisions?query=deployed%3Atrue user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:35,358]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/8af64a71-1a38-4fcf-b6d3-7b6cd1c5c998/swagger user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 11:24:35,368]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis/8af64a71-1a38-4fcf-b6d3-7b6cd1c5c998/revisions?query=deployed%3Atrue user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:07:02,360]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 13:07:02,365]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-Roles-of-User Target=a***n Data={"ServiceProviderName":"apim_publisher","Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Internal/devops","admin","Internal/analytics","Internal/observer","Internal/integration_dev"]} Outcome=Success
+TID: [-1234] [2026-04-16 13:07:02,366]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"ServiceProviderName":"apim_publisher","Claims":{"http://wso2.org/claims/username":"a***n","http://wso2.org/claims/userid":"f270c18c-7828-4268-bb47-13b133288e7e","http://wso2.org/claims/role":"I***********************************************************************************************************************************************************v","http://wso2.org/claims/userprincipal":"a***n"}} Outcome=Success
+TID: [-1234] [2026-04-16 13:07:02,443]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : UpdateSession | Data : { {"traceId":"79116fdc-8ed2-45b5-9fa8-97ed40ff1d36","RememberMe":true,"sessionContextId":"a0dad3d2df08316661c509605c24a92f57c3375754de553da276a537845aea0c","AuthenticatedUserTenantDomain":"carbon.super","AuthenticatedUser":"a***n","LastAccessedTimestamp":1776326822377} } | Result : Success 
+TID: [-1234] [2026-04-16 13:07:02,445]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "bd0479ed-b809-42f3-a0f5-01270b2f86bb","AuthenticatedUser" : "a***n","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "apim_publisher","RequestType" : "oidc","RelyingParty" : "_N628OCqcOo0EIJGkSbcVjffJ4Ma","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNzc2MzI2ODI1MzYxLCJpYXQiOjE3NzYzMjY4MjIzNjEsImlkcHMiOlt7ImlkcCI6IkxPQ0FMIiwiYXV0aGVudGljYXRvciI6IkJhc2ljQXV0aGVudGljYXRvciJ9XX0.vT-_hFuqY_nEhpNHRaB9v6uoEEdtGWe4HCg1JZeoKL4","User Agent" : "null","RemoteAddress" : "null","UserStoreDomain" : "PRIMARY" } | Result : Success 
+TID: [-1234] [2026-04-16 13:07:03,037]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-List Target=null Data={"Claim Value":"a***n","Users":["a***n"],"Claim":"http://wso2.org/claims/username"} Outcome=Success
+TID: [-1234] [2026-04-16 13:07:03,043]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 13:07:03,045]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 13:07:03,045]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 13:07:04,386]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Value Target=a***n Data={"Claim":"http://wso2.org/claims/organization"} Outcome=Success
+TID: [-1234] [2026-04-16 13:07:04,405]  INFO {AUDIT_LOG} - GET /api/am/publisher/settings user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:07:04,749]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis?limit=10&offset=0 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:07:15,964]  INFO {AUDIT_LOG} - DELETE /api/am/publisher/apis/8af64a71-1a38-4fcf-b6d3-7b6cd1c5c998 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:07:16,096]  INFO {AUDIT_LOG} - {"performedBy":"admin","action":"deleted","type":"API","info":{"provider":"admin","name":"ZBoxTransaction","version":"v1"}}
+TID: [] [2026-04-16 13:07:16,151]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 13:07:16,152]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 13:07:16,152]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 13:07:16,180]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis?limit=10&offset=0 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [] [2026-04-16 13:07:16,233]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 13:07:16,235]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 13:07:16,236]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 13:10:02,163]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:10:02,671]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:10:02,779]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:10:02,927]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:23:32,532]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Value Target=a***n Data={"Claim":"http://wso2.org/claims/organization"} Outcome=Success
+TID: [-1234] [2026-04-16 13:23:32,547]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis?limit=10&offset=0 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:23:32,550]  INFO {AUDIT_LOG} - Initiator=f270c18c-7828-4268-bb47-13b133288e7e Action=Get-Roles-of-User Target=a***n Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Internal/devops","admin","Internal/analytics","Internal/observer","Internal/integration_dev"]} Outcome=Success
+TID: [-1234] [2026-04-16 13:25:41,292]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:25:41,406]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:25:41,527]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 13:25:41,619]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [] [2026-04-16 14:21:52,037]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-Roles-of-User Target=a***n Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Internal/devops","admin","Internal/analytics","Internal/observer","Internal/integration_dev"]} Outcome=Success
+TID: [] [2026-04-16 14:24:33,649]  INFO {AUDIT_LOG} - {"performedBy":"SYSTEM: carbon.super","action":"deployed","type":"API"}
+TID: [] [2026-04-16 14:24:33,760]  INFO {AUDIT_LOG} - {"performedBy":"SYSTEM: carbon.super","action":"deployed","type":"API"}
+TID: [] [2026-04-16 14:24:35,165]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,166]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,166]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,167]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,171]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,173]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,174]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,174]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,174]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,177]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,178]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,184]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,185]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,188]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,194]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,346]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,351]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,359]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,359]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,363]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,365]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,367]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,368]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,368]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,370]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,371]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,372]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,451]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,452]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,454]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,460]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,462]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,465]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,736]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,739]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,742]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,750]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,756]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,760]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,764]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,765]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,770]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,771]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,772]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,773]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,773]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,774]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,781]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,781]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,783]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,784]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,787]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,795]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,798]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,799]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,800]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,801]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,801]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,802]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,805]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,809]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,811]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,815]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,816]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,821]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,830]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,833]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,844]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,846]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,848]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,848]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,849]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,849]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,852]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,858]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,860]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,863]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,864]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,865]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,865]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,866]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,867]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,869]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,869]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,872]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,873]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,874]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,874]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,874]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,874]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,875]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,876]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,880]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,882]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,882]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,883]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,887]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,887]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,888]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,902]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,921]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,940]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,943]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,943]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,944]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,946]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,956]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,957]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,958]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,958]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,959]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,959]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:35,960]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:35,960]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:24:36,167]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-Roles-of-User Target=a***n Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Internal/devops","admin","Internal/analytics","Internal/observer","Internal/integration_dev"]} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:36,286]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:36,361]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:36,362]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:36,374]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:36,392]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:36,398]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:36,532]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:36,534]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:36,542]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,372]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,385]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,386]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,453]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,464]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,465]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,522]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,526]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,530]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,777]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,783]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,784]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,884]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,889]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:24:38,891]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:25:09,196]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:25:09,224]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"ServiceProviderName":"apim_publisher","Claims":{"http://wso2.org/claims/username":"a***n","http://wso2.org/claims/userid":"f270c18c-7828-4268-bb47-13b133288e7e","http://wso2.org/claims/role":"I***********************************************************************************************************************************************************v","http://wso2.org/claims/userprincipal":"a***n"}} Outcome=Success
+TID: [-1234] [2026-04-16 14:25:09,635]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : UpdateSession | Data : { {"traceId":"c24f5318-7c3a-4c1c-a21a-f7377868718f","RememberMe":true,"sessionContextId":"a0dad3d2df08316661c509605c24a92f57c3375754de553da276a537845aea0c","AuthenticatedUserTenantDomain":"carbon.super","AuthenticatedUser":"a***n","LastAccessedTimestamp":1776331509323} } | Result : Success 
+TID: [-1234] [2026-04-16 14:25:09,689]  INFO {AUDIT_LOG} - Initiator : f270c18c-7828-4268-bb47-13b133288e7e | Action : Login | Target : ApplicationAuthenticationFramework | Data : { "ContextIdentifier" : "7d15c6f8-3997-49c7-8f12-3c120e19ecc7","AuthenticatedUser" : "a***n","AuthenticatedUserTenantDomain" : "carbon.super","ServiceProviderName" : "apim_publisher","RequestType" : "oidc","RelyingParty" : "_N628OCqcOo0EIJGkSbcVjffJ4Ma","AuthenticatedIdPs" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ3c28yIiwiZXhwIjoxNzc2MzMxNTEyMjA0LCJpYXQiOjE3NzYzMzE1MDkyMDQsImlkcHMiOlt7ImlkcCI6IkxPQ0FMIiwiYXV0aGVudGljYXRvciI6IkJhc2ljQXV0aGVudGljYXRvciJ9XX0.-6pvnTiuzKx5cNfLX4ZPT18pZWmB_NJGmt0PAED2Ckc","User Agent" : "null","RemoteAddress" : "null","UserStoreDomain" : "PRIMARY" } | Result : Success 
+TID: [-1234] [2026-04-16 14:25:11,233]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-List Target=null Data={"Claim Value":"a***n","Users":["a***n"],"Claim":"http://wso2.org/claims/username"} Outcome=Success
+TID: [-1234] [2026-04-16 14:25:11,260]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:25:11,269]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:25:11,273]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:25:12,853]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Value Target=a***n Data={"Claim":"http://wso2.org/claims/organization"} Outcome=Success
+TID: [-1234] [2026-04-16 14:25:12,855]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Value Target=a***n Data={"Claim":"http://wso2.org/claims/organization"} Outcome=Success
+TID: [-1234] [2026-04-16 14:25:14,075]  INFO {AUDIT_LOG} - GET /api/am/publisher/settings user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:25:14,075]  INFO {AUDIT_LOG} - GET /api/am/publisher/apis?limit=10&offset=0 user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:25:22,595]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:25:22,879]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:25:23,030]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:25:23,210]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [] [2026-04-16 14:28:47,966]  INFO {AUDIT_LOG} - {"performedBy":"SYSTEM: carbon.super","action":"deployed","type":"API"}
+TID: [] [2026-04-16 14:28:48,080]  INFO {AUDIT_LOG} - {"performedBy":"SYSTEM: carbon.super","action":"deployed","type":"API"}
+TID: [-1234] [2026-04-16 14:28:49,106]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,106]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,121]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,124]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,125]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,126]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,128]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,128]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,132]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,134]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,134]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,138]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,139]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,139]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,140]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,141]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,141]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,141]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,142]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,142]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,154]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,166]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,168]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,168]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,169]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,171]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,173]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,175]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,176]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,186]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,194]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,195]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,198]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,198]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,203]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,204]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,208]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,212]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,213]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,215]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,215]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,216]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,217]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,218]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,219]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,219]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,220]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,221]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,223]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,226]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,227]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,228]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,228]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,232]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,233]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,236]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,237]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,257]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,259]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,269]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,271]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,271]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,272]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,276]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:49,279]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,287]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,287]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,288]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,291]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,301]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,303]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,304]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,462]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,463]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,466]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,469]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,477]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,488]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,489]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,489]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,490]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,494]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,517]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,518]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,724]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,735]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,728]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,735]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,736]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:49,763]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,224]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,233]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,235]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,238]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,239]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,241]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,243]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,244]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,246]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,245]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,247]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,253]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,254]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,266]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,268]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,339]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,341]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,343]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,343]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,344]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,351]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,353]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,355]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,356]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,359]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,360]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,361]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,546]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,548]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,548]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,549]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,550]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,559]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [] [2026-04-16 14:28:50,876]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-Roles-of-User Target=a***n Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Internal/devops","admin","Internal/analytics","Internal/observer","Internal/integration_dev"]} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,549]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,559]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,562]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,744]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,746]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,747]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,807]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,813]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,814]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,954]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,956]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:53,957]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:54,043]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:54,047]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:54,052]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Values Target=a***n Data={"Claims":{},"Profile":"default"} Outcome=Success
+TID: [-1234] [2026-04-16 14:28:59,110]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-User-Claim-Value Target=a***n Data={"Claim":"http://wso2.org/claims/organization"} Outcome=Success
+TID: [-1234] [2026-04-16 14:29:00,688]  INFO {AUDIT_LOG} - GET /api/am/publisher/settings user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:29:09,381]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:29:09,657]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:29:10,259]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:29:10,413]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:30:32,407]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:30:32,495]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:30:32,615]  INFO {AUDIT_LOG} - POST /api/am/publisher/apis/validate-openapi user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [-1234] [2026-04-16 14:30:32,763]  INFO {AUDIT_LOG} - GET /api/am/publisher/linter-custom-rules?apiType=HTTP user: admin@carbon.super app: _N628OCqcOo0EIJGkSbcVjffJ4Ma
+TID: [] [2026-04-16 19:53:05,664]  INFO {AUDIT_LOG} - Initiator=w**************r Action=Get-Roles-of-User Target=a***n Data={"Filter":"*","Roles":["Internal/subscriber","Internal/creator","Internal/publisher","Internal/everyone","Internal/devops","admin","Internal/analytics","Internal/observer","Internal/integration_dev"]} Outcome=Success
