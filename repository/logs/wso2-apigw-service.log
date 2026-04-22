@@ -1,0 +1,7 @@
+2026-04-17T16:52:03,293 [-] [PassThroughMessageProcessor-1]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /test/1.0.0/posts, HEALTH CHECK URL = /test/1.0.0/posts
+2026-04-17T16:54:42,918 [-] [PassThroughMessageProcessor-2]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /test/1.0.0/posts, HEALTH CHECK URL = /test/1.0.0/posts
+2026-04-17T16:54:58,496 [-] [PassThroughMessageProcessor-3]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /test/1.0.0/posts, HEALTH CHECK URL = /test/1.0.0/posts
+2026-04-17T16:56:50,833 [-] [PassThroughMessageProcessor-4]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /, HEALTH CHECK URL = /
+2026-04-17T16:57:11,548 [-] [PassThroughMessageProcessor-6]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /, HEALTH CHECK URL = /
+2026-04-17T16:57:33,167 [-] [PassThroughMessageProcessor-8]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /test/1.0.0/posts, HEALTH CHECK URL = /test/1.0.0/posts
+2026-04-17T17:04:25,751 [-] [PassThroughMessageProcessor-1]  INFO __SynapseService STATUS = Message dispatched to the main sequence. Invalid URL., RESOURCE = /test/1.0.0/posts, HEALTH CHECK URL = /test/1.0.0/posts

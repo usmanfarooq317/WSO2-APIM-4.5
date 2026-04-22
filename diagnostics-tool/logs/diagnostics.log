@@ -1,133 +1,22 @@
-2026-04-16 11:09:03 ServerProcess [INFO] Server Process ID: 586518
-2026-04-16 11:09:03 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
-2026-04-16 11:09:04 DiagnosticsApp [INFO] Server name: WSO2 API Manager
-2026-04-16 11:09:04 DiagnosticsApp [INFO] Version: 4.5.0
-2026-04-16 11:09:04 DiagnosticsApp [INFO] Update Level: null
-2026-04-16 11:09:04 DiagnosticsApp [INFO] Java Version: 11.0.30
-2026-04-16 11:09:04 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
-2026-04-16 11:09:04 DiagnosticsApp [INFO] OS Name: Linux
-2026-04-16 11:09:04 DiagnosticsApp [INFO] OS Version: 6.8.0-107-generic
-2026-04-16 11:09:04 DiagnosticsApp [INFO] OS Architecture: amd64
-2026-04-16 11:09:04 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
-2026-04-16 11:09:04 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
-2026-04-16 11:09:04 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
-2026-04-16 11:09:04 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
-2026-04-16 11:09:04 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
-2026-04-16 11:09:04 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
-2026-04-16 11:09:04 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
-2026-04-16 11:14:44 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 1
-2026-04-16 11:14:49 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 82.0%, Retry count: 2
-2026-04-16 11:14:54 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 82.0%, Retry count: 3
-2026-04-16 11:15:09 ThreadDumper [INFO] Thread dump execution is completed for 586518, thread dump count: 5, delay: 2000ms
-2026-04-16 11:15:09 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
-2026-04-16 11:15:10 ServerInfo [INFO] ServerInfo executed successfully.
-2026-04-16 11:15:10 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-16_11:14:54.109
-2026-04-16 11:15:10 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/586518_2026-04-16_11:14:54.109.zip
-2026-04-16 11:21:44 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 82.0%, Retry count: 1
-2026-04-16 11:23:29 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 2
-2026-04-16 11:23:34 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 82.0%, Retry count: 3
-2026-04-16 11:23:46 ThreadDumper [INFO] Thread dump execution is completed for 586518, thread dump count: 5, delay: 2000ms
-2026-04-16 11:23:46 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
-2026-04-16 11:23:46 ServerInfo [INFO] ServerInfo executed successfully.
-2026-04-16 11:23:46 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-16_11:23:34.108
-2026-04-16 11:23:46 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/586518_2026-04-16_11:23:34.108.zip
-2026-04-16 11:29:44 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 1
-2026-04-16 11:29:49 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 82.0%, Retry count: 2
-2026-04-16 11:29:54 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 83.0%, Retry count: 3
-2026-04-16 11:30:06 ThreadDumper [INFO] Thread dump execution is completed for 586518, thread dump count: 5, delay: 2000ms
-2026-04-16 11:30:06 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
-2026-04-16 11:30:06 ServerInfo [INFO] ServerInfo executed successfully.
-2026-04-16 11:30:06 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-16_11:29:54.108
-2026-04-16 11:30:06 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/586518_2026-04-16_11:29:54.108.zip
-2026-04-16 12:07:46 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 1
-2026-04-16 12:07:51 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 2
-2026-04-16 12:07:56 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 82.0%, Retry count: 3
-2026-04-16 12:08:09 ThreadDumper [INFO] Thread dump execution is completed for 586518, thread dump count: 5, delay: 2000ms
-2026-04-16 12:08:09 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
-2026-04-16 12:08:09 ServerInfo [INFO] ServerInfo executed successfully.
-2026-04-16 12:08:09 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-16_12:07:56.478
-2026-04-16 12:08:09 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/586518_2026-04-16_12:07:56.478.zip
-2026-04-16 12:14:41 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 1
-2026-04-16 12:14:46 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 2
-2026-04-16 12:14:51 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 82.0%, Retry count: 3
-2026-04-16 12:15:03 ThreadDumper [INFO] Thread dump execution is completed for 586518, thread dump count: 5, delay: 2000ms
-2026-04-16 12:15:03 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
-2026-04-16 12:15:04 ServerInfo [INFO] ServerInfo executed successfully.
-2026-04-16 12:15:04 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-16_12:14:51.478
-2026-04-16 12:15:04 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/586518_2026-04-16_12:14:51.478.zip
-2026-04-16 12:15:04 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 83.0%, Retry count: 1
-2026-04-16 12:15:04 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 83.0%, Retry count: 2
-2026-04-16 13:07:18 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 3
-2026-04-16 13:07:30 ThreadDumper [INFO] Thread dump execution is completed for 586518, thread dump count: 5, delay: 2000ms
-2026-04-16 13:07:30 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
-2026-04-16 13:07:30 ServerInfo [INFO] ServerInfo executed successfully.
-2026-04-16 13:07:30 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-16_13:07:18.08
-2026-04-16 13:07:30 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/586518_2026-04-16_13:07:18.08.zip
-2026-04-16 13:13:53 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 1
-2026-04-16 13:13:58 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 2
-2026-04-16 13:14:03 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 82.0%, Retry count: 3
-2026-04-16 13:14:15 ThreadDumper [INFO] Thread dump execution is completed for 586518, thread dump count: 5, delay: 2000ms
-2026-04-16 13:14:15 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
-2026-04-16 13:14:15 ServerInfo [INFO] ServerInfo executed successfully.
-2026-04-16 13:14:15 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-16_13:14:03.496
-2026-04-16 13:14:15 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/586518_2026-04-16_13:14:03.496.zip
-2026-04-16 13:20:48 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 1
-2026-04-16 13:20:53 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 2
-2026-04-16 13:20:58 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 3
-2026-04-16 13:21:11 ThreadDumper [INFO] Thread dump execution is completed for 586518, thread dump count: 5, delay: 2000ms
-2026-04-16 13:21:11 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
-2026-04-16 13:21:11 ServerInfo [INFO] ServerInfo executed successfully.
-2026-04-16 13:21:11 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-16_13:20:58.495
-2026-04-16 13:21:11 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/586518_2026-04-16_13:20:58.495.zip
-2026-04-16 13:21:11 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 83.0%, Retry count: 1
-2026-04-16 13:21:11 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 83.0%, Retry count: 2
-2026-04-16 13:21:13 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 83.0%, Retry count: 3
-2026-04-16 13:21:25 ThreadDumper [INFO] Thread dump execution is completed for 586518, thread dump count: 5, delay: 2000ms
-2026-04-16 13:21:25 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
-2026-04-16 13:21:25 ServerInfo [INFO] ServerInfo executed successfully.
-2026-04-16 13:21:25 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-16_13:21:13.494
-2026-04-16 13:21:25 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/586518_2026-04-16_13:21:13.494.zip
-2026-04-16 14:21:43 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 1
-2026-04-16 14:21:48 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 2
-2026-04-16 14:22:03 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
-2026-04-16 14:22:03 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
-2026-04-16 14:23:24 ServerProcess [INFO] Server Process ID: 627222
-2026-04-16 14:23:24 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
-2026-04-16 14:23:25 DiagnosticsApp [INFO] Server name: WSO2 API Manager
-2026-04-16 14:23:25 DiagnosticsApp [INFO] Version: 4.5.0
-2026-04-16 14:23:25 DiagnosticsApp [INFO] Update Level: null
-2026-04-16 14:23:25 DiagnosticsApp [INFO] Java Version: 11.0.30
-2026-04-16 14:23:25 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
-2026-04-16 14:23:25 DiagnosticsApp [INFO] OS Name: Linux
-2026-04-16 14:23:25 DiagnosticsApp [INFO] OS Version: 6.8.0-107-generic
-2026-04-16 14:23:25 DiagnosticsApp [INFO] OS Architecture: amd64
-2026-04-16 14:23:25 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
-2026-04-16 14:23:25 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
-2026-04-16 14:23:25 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
-2026-04-16 14:23:25 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
-2026-04-16 14:23:25 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
-2026-04-16 14:23:25 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
-2026-04-16 14:23:25 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
-2026-04-16 14:26:55 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
-2026-04-16 14:26:55 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
-2026-04-16 14:27:40 ServerProcess [INFO] Server Process ID: 630630
-2026-04-16 14:27:40 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
-2026-04-16 14:27:40 DiagnosticsApp [INFO] Server name: WSO2 API Manager
-2026-04-16 14:27:40 DiagnosticsApp [INFO] Version: 4.5.0
-2026-04-16 14:27:40 DiagnosticsApp [INFO] Update Level: null
-2026-04-16 14:27:40 DiagnosticsApp [INFO] Java Version: 11.0.30
-2026-04-16 14:27:40 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
-2026-04-16 14:27:40 DiagnosticsApp [INFO] OS Name: Linux
-2026-04-16 14:27:40 DiagnosticsApp [INFO] OS Version: 6.8.0-107-generic
-2026-04-16 14:27:40 DiagnosticsApp [INFO] OS Architecture: amd64
-2026-04-16 14:27:40 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
-2026-04-16 14:27:40 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
-2026-04-16 14:27:40 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
-2026-04-16 14:27:40 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
-2026-04-16 14:27:40 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
-2026-04-16 14:27:40 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
-2026-04-16 14:27:40 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
-2026-04-16 19:53:15 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
-2026-04-16 19:53:15 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
-2026-04-16 19:53:15 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
-2026-04-16 19:53:15 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-04-22 11:01:49 ServerProcess [INFO] Server Process ID: 6131
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Version: 4.5.0
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Update Level: null
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-04-22 11:01:49 DiagnosticsApp [INFO] OS Name: Linux
+2026-04-22 11:01:49 DiagnosticsApp [INFO] OS Version: 6.8.0-107-generic
+2026-04-22 11:01:49 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-04-22 11:01:49 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-04-22 11:01:49 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-04-22 11:01:49 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-04-22 11:02:13 LogWatcher [INFO] Log file has been rotated. Reopening the file /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-04-22 11:06:16 Interpreter [INFO] Executing the action executors for the log line matching the regex pattern (.*)org.apache.synapse(.*)
+2026-04-22 11:06:17 ServerInfo [INFO] ServerInfo executed successfully.
+2026-04-22 11:06:22 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-22_11:06:16.217
+2026-04-22 11:06:22 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/6131_2026-04-22_11:06:16.217.zip
