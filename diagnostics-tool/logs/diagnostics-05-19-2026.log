@@ -1,0 +1,269 @@
+2026-04-22 11:01:49 ServerProcess [INFO] Server Process ID: 6131
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Version: 4.5.0
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Update Level: null
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-04-22 11:01:49 DiagnosticsApp [INFO] OS Name: Linux
+2026-04-22 11:01:49 DiagnosticsApp [INFO] OS Version: 6.8.0-107-generic
+2026-04-22 11:01:49 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-04-22 11:01:49 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-04-22 11:01:49 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-04-22 11:01:49 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-04-22 11:02:13 LogWatcher [INFO] Log file has been rotated. Reopening the file /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-04-22 11:06:16 Interpreter [INFO] Executing the action executors for the log line matching the regex pattern (.*)org.apache.synapse(.*)
+2026-04-22 11:06:17 ServerInfo [INFO] ServerInfo executed successfully.
+2026-04-22 11:06:22 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-22_11:06:16.217
+2026-04-22 11:06:22 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/6131_2026-04-22_11:06:16.217.zip
+2026-05-19 10:26:29 ServerProcess [INFO] Server Process ID: 2677656
+2026-05-19 10:26:29 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 10:26:29 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 10:26:29 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 10:26:29 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 10:26:29 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 10:26:29 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 10:26:29 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 10:26:29 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 10:26:29 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 10:26:29 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 10:26:29 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 10:26:29 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 10:26:29 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 10:26:29 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 10:26:29 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 10:26:29 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 10:28:44 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 10:28:44 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 10:28:59 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 10:28:59 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 11:02:45 ServerProcess [INFO] Server Process ID: 2698949
+2026-05-19 11:02:45 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 11:02:45 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 11:02:45 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 11:02:45 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 11:02:45 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 11:02:45 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 11:02:45 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 11:02:45 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 11:02:45 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 11:02:45 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 11:02:45 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 11:02:45 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 11:02:45 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 11:02:45 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 11:02:45 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 11:02:45 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 12:39:30 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 12:39:30 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 12:40:21 ServerProcess [INFO] Server Process ID: 2753270
+2026-05-19 12:40:21 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 12:40:21 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 12:40:21 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 12:40:21 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 12:40:21 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 12:40:21 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 12:40:21 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 12:40:21 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 12:40:21 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 12:40:21 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 12:40:21 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 12:40:21 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 12:40:21 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 12:40:21 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 12:40:21 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 12:40:21 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 12:43:51 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 12:43:51 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 12:44:39 ServerProcess [INFO] Server Process ID: 2756901
+2026-05-19 12:44:39 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 12:44:39 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 12:44:39 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 12:44:39 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 12:44:39 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 12:44:39 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 12:44:39 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 12:44:39 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 12:44:39 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 12:44:39 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 12:44:39 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 12:44:39 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 12:44:39 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 12:44:39 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 12:44:39 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 12:44:39 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 12:55:34 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 1
+2026-05-19 12:55:39 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 2
+2026-05-19 12:55:44 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 82.0%, Retry count: 3
+2026-05-19 12:55:56 ThreadDumper [INFO] Thread dump execution is completed for 2756901, thread dump count: 5, delay: 2000ms
+2026-05-19 12:55:56 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
+2026-05-19 12:55:57 ServerInfo [INFO] ServerInfo executed successfully.
+2026-05-19 12:55:57 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-05-19_12:55:44.282
+2026-05-19 12:55:57 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/2756901_2026-05-19_12:55:44.282.zip
+2026-05-19 12:55:57 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 83.0%, Retry count: 1
+2026-05-19 12:55:57 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 83.0%, Retry count: 2
+2026-05-19 12:55:59 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 83.0%, Retry count: 3
+2026-05-19 12:56:11 ThreadDumper [INFO] Thread dump execution is completed for 2756901, thread dump count: 5, delay: 2000ms
+2026-05-19 12:56:11 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
+2026-05-19 12:56:11 ServerInfo [INFO] ServerInfo executed successfully.
+2026-05-19 12:56:11 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-05-19_12:55:59.282
+2026-05-19 12:56:11 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/2756901_2026-05-19_12:55:59.282.zip
+2026-05-19 12:56:11 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 84.0%, Retry count: 1
+2026-05-19 12:56:11 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 84.0%, Retry count: 2
+2026-05-19 12:56:14 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 85.0%, Retry count: 3
+2026-05-19 12:56:26 ThreadDumper [INFO] Thread dump execution is completed for 2756901, thread dump count: 5, delay: 2000ms
+2026-05-19 12:56:26 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
+2026-05-19 12:56:26 ServerInfo [INFO] ServerInfo executed successfully.
+2026-05-19 12:56:26 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-05-19_12:56:14.283
+2026-05-19 12:56:26 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/2756901_2026-05-19_12:56:14.283.zip
+2026-05-19 14:25:24 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 14:25:24 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 14:26:07 ServerProcess [INFO] Server Process ID: 2813228
+2026-05-19 14:26:07 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 14:26:07 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 14:26:07 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 14:26:07 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 14:26:07 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 14:26:07 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 14:26:07 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 14:26:07 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 14:26:07 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 14:26:07 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 14:26:07 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 14:26:07 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 14:26:07 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 14:26:07 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 14:26:07 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 14:26:07 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 14:33:22 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 14:33:22 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 14:34:14 ServerProcess [INFO] Server Process ID: 2819066
+2026-05-19 14:34:15 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 14:34:15 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 14:34:15 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 14:34:15 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 14:34:15 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 14:34:15 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 14:34:15 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 14:34:15 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 14:34:15 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 14:34:15 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 14:34:15 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 14:34:15 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 14:34:15 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 14:34:15 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 14:34:15 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 14:34:15 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 14:39:30 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 14:39:30 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 14:40:11 ServerProcess [INFO] Server Process ID: 2823548
+2026-05-19 14:40:11 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 14:40:11 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 14:40:11 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 14:40:11 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 14:40:11 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 14:40:11 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 14:40:11 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 14:40:11 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 14:40:11 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 14:40:11 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 14:40:11 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 14:40:11 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 14:40:11 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 14:40:11 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 14:40:11 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 14:40:11 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 14:50:41 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 14:50:41 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 15:30:45 ServerProcess [INFO] Server Process ID: 2855020
+2026-05-19 15:30:45 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 15:30:46 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 15:30:46 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 15:30:46 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 15:30:46 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 15:30:46 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 15:30:46 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 15:30:46 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 15:30:46 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 15:30:46 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 15:30:46 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 15:30:46 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 15:30:46 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 15:30:46 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 15:30:46 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 15:30:46 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 15:42:31 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 15:42:31 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 15:43:19 ServerProcess [INFO] Server Process ID: 2860326
+2026-05-19 15:43:19 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 15:43:19 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 15:43:19 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 15:43:19 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 15:43:19 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 15:43:19 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 15:43:19 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 15:43:19 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 15:43:19 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 15:43:19 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 15:43:19 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 15:43:19 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 15:43:19 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 15:43:19 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 15:43:19 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 15:43:19 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 15:52:34 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 15:52:34 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 16:11:33 ServerProcess [INFO] Server Process ID: 2878959
+2026-05-19 16:11:33 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 16:11:33 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 16:11:33 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 16:11:33 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 16:11:33 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 16:11:33 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 16:11:33 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 16:11:33 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 16:11:33 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 16:11:33 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 16:11:33 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 16:11:33 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 16:11:33 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 16:11:33 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 16:11:33 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 16:11:33 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 16:48:18 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 16:48:18 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 16:48:33 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 16:48:33 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 16:48:33 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 16:48:33 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-19 16:49:17 ServerProcess [INFO] Server Process ID: 2902865
+2026-05-19 16:49:17 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-19 16:49:17 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-19 16:49:17 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-19 16:49:17 DiagnosticsApp [INFO] Update Level: null
+2026-05-19 16:49:17 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-19 16:49:17 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-19 16:49:17 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-19 16:49:17 DiagnosticsApp [INFO] OS Version: 6.8.0-111-generic
+2026-05-19 16:49:17 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-19 16:49:17 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-19 16:49:17 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-19 16:49:17 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-19 16:49:17 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 16:49:17 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-19 16:49:17 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-19 16:49:17 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-19 17:42:27 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 1
+2026-05-19 17:50:32 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 2
+2026-05-19 17:50:37 MemoryWatcher [INFO] Heap usage is above threshold. Heap usage: 81.0%, Retry count: 3
+2026-05-19 17:50:55 ThreadDumper [INFO] Thread dump execution is completed for 2902865, thread dump count: 5, delay: 2000ms
+2026-05-19 17:50:55 MetricsSnapshot [INFO] MetricsSnapshot executed successfully.
+2026-05-19 17:50:56 ServerInfo [INFO] ServerInfo executed successfully.
+2026-05-19 17:50:57 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-05-19_17:50:37.505
+2026-05-19 17:50:57 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/2902865_2026-05-19_17:50:37.505.zip
+2026-05-19 18:10:47 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-19 18:10:47 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections

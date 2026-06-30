@@ -1,0 +1,124 @@
+2026-04-22 11:01:49 ServerProcess [INFO] Server Process ID: 6131
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Version: 4.5.0
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Update Level: null
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-04-22 11:01:49 DiagnosticsApp [INFO] OS Name: Linux
+2026-04-22 11:01:49 DiagnosticsApp [INFO] OS Version: 6.8.0-107-generic
+2026-04-22 11:01:49 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-04-22 11:01:49 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-04-22 11:01:49 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-04-22 11:01:49 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-04-22 11:01:49 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-04-22 11:02:13 LogWatcher [INFO] Log file has been rotated. Reopening the file /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-04-22 11:06:16 Interpreter [INFO] Executing the action executors for the log line matching the regex pattern (.*)org.apache.synapse(.*)
+2026-04-22 11:06:17 ServerInfo [INFO] ServerInfo executed successfully.
+2026-04-22 11:06:22 ZipFileExecutor [INFO] Zipping the folder at /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/temp/2026-04-22_11:06:16.217
+2026-04-22 11:06:22 ZipFileExecutor [INFO] Diagnosis Dumped in :/home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/data/6131_2026-04-22_11:06:16.217.zip
+2026-05-05 14:45:43 ServerProcess [INFO] Server Process ID: 595145
+2026-05-05 14:45:43 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-05 14:45:43 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-05 14:45:43 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-05 14:45:43 DiagnosticsApp [INFO] Update Level: null
+2026-05-05 14:45:43 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-05 14:45:43 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-05 14:45:43 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-05 14:45:43 DiagnosticsApp [INFO] OS Version: 6.8.0-110-generic
+2026-05-05 14:45:43 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-05 14:45:43 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-05 14:45:43 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-05 14:45:43 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-05 14:45:43 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-05 14:45:43 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-05 14:45:43 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-05 14:45:43 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-05 14:48:58 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-05 14:48:58 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
+2026-05-05 14:49:08 JMXDataRetriever [ERROR] Error while getting JMX data
+java.rmi.ConnectException: Connection refused to host: 127.0.1.1; nested exception is: 
+	java.net.ConnectException: Connection refused (Connection refused)
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:623) ~[?:?]
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(TCPChannel.java:209) ~[?:?]
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(TCPChannel.java:196) ~[?:?]
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:132) ~[?:?]
+	at jdk.jmx.remote.internal.rmi.PRef.invoke(Unknown Source) ~[?:?]
+	at javax.management.remote.rmi.RMIConnectionImpl_Stub.getAttribute(Unknown Source) ~[?:?]
+	at javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection.getAttribute(RMIConnector.java:904) ~[?:?]
+	at org.wso2.diagnostics.utils.JMXDataRetriever.getJmxData(JMXDataRetriever.java:95) [runtime-diagnostics-tool-1.0.17.jar:1.0.17]
+	at org.wso2.diagnostics.utils.JMXDataRetriever.getCpuUsage(JMXDataRetriever.java:51) [runtime-diagnostics-tool-1.0.17.jar:1.0.17]
+	at org.wso2.diagnostics.watchers.CPUWatcher.run(CPUWatcher.java:58) [runtime-diagnostics-tool-1.0.17.jar:1.0.17]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:?]
+	at java.net.Socket.connect(Socket.java:609) ~[?:?]
+	at java.net.Socket.connect(Socket.java:558) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:454) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:231) ~[?:?]
+	at sun.rmi.transport.tcp.TCPDirectSocketFactory.createSocket(TCPDirectSocketFactory.java:40) ~[?:?]
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:617) ~[?:?]
+	... 15 more
+2026-05-05 14:49:08 JMXDataRetriever [ERROR] Error while getting JMX data
+java.rmi.ConnectException: Connection refused to host: 127.0.1.1; nested exception is: 
+	java.net.ConnectException: Connection refused (Connection refused)
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:623) ~[?:?]
+	at sun.rmi.transport.tcp.TCPChannel.createConnection(TCPChannel.java:209) ~[?:?]
+	at sun.rmi.transport.tcp.TCPChannel.newConnection(TCPChannel.java:196) ~[?:?]
+	at sun.rmi.server.UnicastRef.invoke(UnicastRef.java:132) ~[?:?]
+	at jdk.jmx.remote.internal.rmi.PRef.invoke(Unknown Source) ~[?:?]
+	at javax.management.remote.rmi.RMIConnectionImpl_Stub.getAttribute(Unknown Source) ~[?:?]
+	at javax.management.remote.rmi.RMIConnector$RemoteMBeanServerConnection.getAttribute(RMIConnector.java:904) ~[?:?]
+	at org.wso2.diagnostics.utils.JMXDataRetriever.getJmxData(JMXDataRetriever.java:95) [runtime-diagnostics-tool-1.0.17.jar:1.0.17]
+	at org.wso2.diagnostics.utils.JMXDataRetriever.getMemoryUsage(JMXDataRetriever.java:56) [runtime-diagnostics-tool-1.0.17.jar:1.0.17]
+	at org.wso2.diagnostics.watchers.MemoryWatcher.run(MemoryWatcher.java:58) [runtime-diagnostics-tool-1.0.17.jar:1.0.17]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) [?:?]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) [?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) [?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) [?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.net.ConnectException: Connection refused (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:412) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:255) ~[?:?]
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:237) ~[?:?]
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392) ~[?:?]
+	at java.net.Socket.connect(Socket.java:609) ~[?:?]
+	at java.net.Socket.connect(Socket.java:558) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:454) ~[?:?]
+	at java.net.Socket.<init>(Socket.java:231) ~[?:?]
+	at sun.rmi.transport.tcp.TCPDirectSocketFactory.createSocket(TCPDirectSocketFactory.java:40) ~[?:?]
+	at sun.rmi.transport.tcp.TCPEndpoint.newSocket(TCPEndpoint.java:617) ~[?:?]
+	... 15 more
+2026-05-05 14:50:08 ServerProcess [INFO] Server Process ID: 598556
+2026-05-05 14:50:08 DiagnosticsApp [INFO] Starting WSO2 Diagnostics Tool
+2026-05-05 14:50:08 DiagnosticsApp [INFO] Server name: WSO2 API Manager
+2026-05-05 14:50:08 DiagnosticsApp [INFO] Version: 4.5.0
+2026-05-05 14:50:08 DiagnosticsApp [INFO] Update Level: null
+2026-05-05 14:50:08 DiagnosticsApp [INFO] Java Version: 11.0.30
+2026-05-05 14:50:08 DiagnosticsApp [INFO] Java Home: /usr/lib/jvm/java-11-openjdk-amd64
+2026-05-05 14:50:08 DiagnosticsApp [INFO] OS Name: Linux
+2026-05-05 14:50:08 DiagnosticsApp [INFO] OS Version: 6.8.0-110-generic
+2026-05-05 14:50:08 DiagnosticsApp [INFO] OS Architecture: amd64
+2026-05-05 14:50:08 DiagnosticsApp [INFO] Diagnostic App Home: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool
+2026-05-05 14:50:08 DiagnosticsApp [INFO] Listening to : ../repository/logs/wso2-apigw-errors.log
+2026-05-05 14:50:08 LogWatcher [INFO] Initiating LogWatcher for file: /home/usman/Desktop/WSO2/wso2am-4.5.0/diagnostics-tool/../repository/logs/wso2-apigw-errors.log
+2026-05-05 14:50:08 DiagnosticsApp [INFO] Initiating CPUWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-05 14:50:08 DiagnosticsApp [INFO] Initiating MemoryWatcher with interval: 5 retry count: 2 threshold: 80
+2026-05-05 14:50:08 TrafficAnalyzerInitializer [INFO] LastFifteenSecondsRequests Traffic Analyzer is enabled with window size: 100, interval: 15, delay: 4
+2026-05-05 14:50:08 TrafficAnalyzerInitializer [INFO] LastMinuteRequests Traffic Analyzer is enabled with window size: 100, interval: 60, delay: 1
+2026-05-05 15:19:38 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=http-listener,Type=PassThroughConnections
+2026-05-05 15:19:38 JMXDataRetriever [ERROR] Error while getting JMX data, org.apache.synapse:Name=https-listener,Type=PassThroughConnections
